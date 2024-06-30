@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb3a7ced-fc0f-4f9c-97ff-3238b9c0b455" name="Changes" comment="app1">
-      <change afterPath="$PROJECT_DIR$/onlinemarket/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlinemarket/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinemarket/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinemarket/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinemarket/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +97,7 @@
       <updated>1719583734160</updated>
       <workItem from="1719583769656" duration="7225000" />
       <workItem from="1719760474029" duration="745000" />
-      <workItem from="1719761235629" duration="836000" />
+      <workItem from="1719761235629" duration="1098000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -125,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719761760778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="app1">
+      <option name="closed" value="true" />
+      <created>1719762091387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719762091387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
